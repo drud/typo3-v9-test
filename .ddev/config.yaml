@@ -1,4 +1,0 @@
-APIVersion: v1.2.0-31-ge266ae87-dirty
-name: typo3-v9-test
-type: typo3
-docroot: public
